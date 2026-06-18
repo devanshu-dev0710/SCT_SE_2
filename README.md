@@ -67,8 +67,7 @@ python main.py
 1. Enter a number between 1 and 100.
 2. Click **Submit Guess** or press **Enter**.
 3. The game will tell you whether your guess is too high or too low.
-4. Keep guessing until you find the correct number.
-5. Use the **New Game** button to start a fresh game.
+4. Keep guessing until you find the correct number and enjoy...
 
 ## Author
 
