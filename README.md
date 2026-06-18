@@ -31,7 +31,7 @@ https://github.com/devanshu-dev0710/SCT_SE_2
 ```text
 SCT_SE_2
 │
-├── number_guessing_game.py
+├── main.py
 ├── README.md
 ├── screenshots/
 ├── .gitignore
@@ -55,7 +55,7 @@ cd SCT_SE_2
 3. Run the application:
 
 ```bash
-python number_guessing_game.py
+python main.py
 ```
 
 ## Screenshot
